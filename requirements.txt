@@ -1,0 +1,7 @@
+selenium
+rottentomatoes-python
+bs4
+pandas
+scipy
+seaborn
+rapidfuzz

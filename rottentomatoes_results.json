@@ -1,0 +1,17 @@
+[
+    {
+        "url": "https://www.rottentomatoes.com/m/the_super_mario_bros_movie",
+        "critics_score": "59%",
+        "audience_score": "95%"
+    },
+    {
+        "url": "https://www.rottentomatoes.com/m/barbie",
+        "critics_score": "88%",
+        "audience_score": "83%"
+    },
+    {
+        "url": "https://www.rottentomatoes.com/m/oppenheimer",
+        "critics_score": null,
+        "audience_score": null
+    }
+]
